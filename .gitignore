@@ -24,3 +24,4 @@ velocity-engine-core/src/main/java/org/apache/velocity/runtime/parser/Token.java
 velocity-engine-core/src/main/java/org/apache/velocity/runtime/parser/TokenMgrError.java
 
 .java-version
+/velocity-engine-core/dependency-reduced-pom.xml
